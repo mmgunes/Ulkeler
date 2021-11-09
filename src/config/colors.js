@@ -4,3 +4,9 @@ export const renkler = {
     yazi_color: '#6d6d6d',
     gri: '#d8d8d8'
 }
+
+export const bgRenkler = {
+
+    bgBirinci : 'purple',
+    bgIkinci : '#eee'
+}
