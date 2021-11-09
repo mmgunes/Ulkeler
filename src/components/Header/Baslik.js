@@ -11,6 +11,7 @@ export default class Baslik extends React.Component {
         <View style={baslikStyles.container}>
             <Text style={{ backgroundColor: bgRenkler.bgBirinci, color: renkler.yazi_color}}>BAŞLIK SAYFASI</Text>
             <Text style={baslikStyles.subtitle}>Hangi Ülkeyi Merak Ediyorsun</Text>
+            <View style={baslikStyles.boslukVer}></View>
             <Text style={baslikStyles.title}>COUNTRIES</Text>
         </View>
         )
